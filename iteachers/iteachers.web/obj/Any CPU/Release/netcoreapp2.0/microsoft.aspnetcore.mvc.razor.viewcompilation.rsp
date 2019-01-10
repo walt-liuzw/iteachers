@@ -1,0 +1,13 @@
+E:\NetCore\iteachers\iteachers.web
+--output-path=obj\Any CPU\Release\netcoreapp2.0\
+--application-name=iteachers.web
+--content-root=E:\NetCore\iteachers\iteachers.web
+--file=E:\NetCore\iteachers\iteachers.web\Views\Home\About.cshtml
+--file=E:\NetCore\iteachers\iteachers.web\Views\Home\Contact.cshtml
+--file=E:\NetCore\iteachers\iteachers.web\Views\Home\Index.cshtml
+--file=E:\NetCore\iteachers\iteachers.web\Views\Shared\Error.cshtml
+--file=E:\NetCore\iteachers\iteachers.web\Views\Shared\_Layout.cshtml
+--file=E:\NetCore\iteachers\iteachers.web\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=E:\NetCore\iteachers\iteachers.web\Views\WeiXin\Index.cshtml
+--file=E:\NetCore\iteachers\iteachers.web\Views\_ViewImports.cshtml
+--file=E:\NetCore\iteachers\iteachers.web\Views\_ViewStart.cshtml

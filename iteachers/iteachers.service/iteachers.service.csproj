@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Senparc.Weixin" Version="4.18.7" />
+    <PackageReference Include="Senparc.Weixin.MP" Version="14.8.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="ThirdDll\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\iteachers.data\iteachers.data.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="System.Web">
+      <HintPath>ThirdDll\System.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Mvc">
+      <HintPath>ThirdDll\System.Web.Mvc.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

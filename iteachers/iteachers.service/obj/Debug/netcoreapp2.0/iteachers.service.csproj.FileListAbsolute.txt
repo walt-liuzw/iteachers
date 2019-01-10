@@ -1,0 +1,12 @@
+E:\NetCore\iteachers\iteachers.service\bin\Debug\netcoreapp2.0\iteachers.service.deps.json
+E:\NetCore\iteachers\iteachers.service\bin\Debug\netcoreapp2.0\iteachers.service.dll
+E:\NetCore\iteachers\iteachers.service\bin\Debug\netcoreapp2.0\iteachers.service.pdb
+E:\NetCore\iteachers\iteachers.service\bin\Debug\netcoreapp2.0\iteachers.data.dll
+E:\NetCore\iteachers\iteachers.service\bin\Debug\netcoreapp2.0\System.Web.Mvc.dll
+E:\NetCore\iteachers\iteachers.service\bin\Debug\netcoreapp2.0\iteachers.data.pdb
+E:\NetCore\iteachers\iteachers.service\obj\Debug\netcoreapp2.0\iteachers.service.csprojResolveAssemblyReference.cache
+E:\NetCore\iteachers\iteachers.service\obj\Debug\netcoreapp2.0\iteachers.service.csproj.CoreCompileInputs.cache
+E:\NetCore\iteachers\iteachers.service\obj\Debug\netcoreapp2.0\iteachers.service.AssemblyInfoInputs.cache
+E:\NetCore\iteachers\iteachers.service\obj\Debug\netcoreapp2.0\iteachers.service.AssemblyInfo.cs
+E:\NetCore\iteachers\iteachers.service\obj\Debug\netcoreapp2.0\iteachers.service.dll
+E:\NetCore\iteachers\iteachers.service\obj\Debug\netcoreapp2.0\iteachers.service.pdb

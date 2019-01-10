@@ -1,0 +1,15 @@
+E:\NetCore\iteachers\iteachers.web\bin\Any CPU\Release\netcoreapp2.0\iteachers.web.deps.json
+E:\NetCore\iteachers\iteachers.web\bin\Any CPU\Release\netcoreapp2.0\iteachers.web.runtimeconfig.json
+E:\NetCore\iteachers\iteachers.web\bin\Any CPU\Release\netcoreapp2.0\iteachers.web.runtimeconfig.dev.json
+E:\NetCore\iteachers\iteachers.web\bin\Any CPU\Release\netcoreapp2.0\iteachers.web.dll
+E:\NetCore\iteachers\iteachers.web\bin\Any CPU\Release\netcoreapp2.0\iteachers.web.pdb
+E:\NetCore\iteachers\iteachers.web\obj\Any CPU\Release\netcoreapp2.0\iteachers.web.csproj.CoreCompileInputs.cache
+E:\NetCore\iteachers\iteachers.web\obj\Any CPU\Release\netcoreapp2.0\iteachers.web.AssemblyInfoInputs.cache
+E:\NetCore\iteachers\iteachers.web\obj\Any CPU\Release\netcoreapp2.0\iteachers.web.AssemblyInfo.cs
+E:\NetCore\iteachers\iteachers.web\obj\Any CPU\Release\netcoreapp2.0\iteachers.web.dll
+E:\NetCore\iteachers\iteachers.web\obj\Any CPU\Release\netcoreapp2.0\iteachers.web.pdb
+E:\NetCore\iteachers\iteachers.web\bin\Any CPU\Release\netcoreapp2.0\iteachers.data.dll
+E:\NetCore\iteachers\iteachers.web\bin\Any CPU\Release\netcoreapp2.0\iteachers.service.dll
+E:\NetCore\iteachers\iteachers.web\bin\Any CPU\Release\netcoreapp2.0\iteachers.data.pdb
+E:\NetCore\iteachers\iteachers.web\bin\Any CPU\Release\netcoreapp2.0\iteachers.service.pdb
+E:\NetCore\iteachers\iteachers.web\obj\Any CPU\Release\netcoreapp2.0\iteachers.web.csprojResolveAssemblyReference.cache

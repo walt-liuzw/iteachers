@@ -1,0 +1,9 @@
+E:\NetCore\iteachers\iteachers.data\bin\Release\netcoreapp2.0\iteachers.data.deps.json
+E:\NetCore\iteachers\iteachers.data\bin\Release\netcoreapp2.0\iteachers.data.dll
+E:\NetCore\iteachers\iteachers.data\bin\Release\netcoreapp2.0\iteachers.data.pdb
+E:\NetCore\iteachers\iteachers.data\obj\Release\netcoreapp2.0\iteachers.data.csprojResolveAssemblyReference.cache
+E:\NetCore\iteachers\iteachers.data\obj\Release\netcoreapp2.0\iteachers.data.csproj.CoreCompileInputs.cache
+E:\NetCore\iteachers\iteachers.data\obj\Release\netcoreapp2.0\iteachers.data.AssemblyInfoInputs.cache
+E:\NetCore\iteachers\iteachers.data\obj\Release\netcoreapp2.0\iteachers.data.AssemblyInfo.cs
+E:\NetCore\iteachers\iteachers.data\obj\Release\netcoreapp2.0\iteachers.data.dll
+E:\NetCore\iteachers\iteachers.data\obj\Release\netcoreapp2.0\iteachers.data.pdb
