@@ -1,0 +1,8 @@
+E:\GitCode\iteachers\iteachers\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.deps.json
+E:\GitCode\iteachers\iteachers\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.json
+E:\GitCode\iteachers\iteachers\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.dev.json
+E:\GitCode\iteachers\iteachers\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.dll
+E:\GitCode\iteachers\iteachers\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csprojResolveAssemblyReference.cache
+E:\GitCode\iteachers\iteachers\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csproj.CoreCompileInputs.cache
+E:\GitCode\iteachers\iteachers\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfoInputs.cache
+E:\GitCode\iteachers\iteachers\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfo.cs

@@ -6,3 +6,12 @@ E:\NetCore\iteachers\iteachers.data\obj\Debug\netcoreapp2.0\iteachers.data.Assem
 E:\NetCore\iteachers\iteachers.data\obj\Debug\netcoreapp2.0\iteachers.data.AssemblyInfo.cs
 E:\NetCore\iteachers\iteachers.data\obj\Debug\netcoreapp2.0\iteachers.data.dll
 E:\NetCore\iteachers\iteachers.data\obj\Debug\netcoreapp2.0\iteachers.data.pdb
+E:\GitCode\iteachers\iteachers\iteachers.data\bin\Debug\netcoreapp2.0\iteachers.data.deps.json
+E:\GitCode\iteachers\iteachers\iteachers.data\bin\Debug\netcoreapp2.0\iteachers.data.dll
+E:\GitCode\iteachers\iteachers\iteachers.data\bin\Debug\netcoreapp2.0\iteachers.data.pdb
+E:\GitCode\iteachers\iteachers\iteachers.data\obj\Debug\netcoreapp2.0\iteachers.data.csprojResolveAssemblyReference.cache
+E:\GitCode\iteachers\iteachers\iteachers.data\obj\Debug\netcoreapp2.0\iteachers.data.csproj.CoreCompileInputs.cache
+E:\GitCode\iteachers\iteachers\iteachers.data\obj\Debug\netcoreapp2.0\iteachers.data.AssemblyInfoInputs.cache
+E:\GitCode\iteachers\iteachers\iteachers.data\obj\Debug\netcoreapp2.0\iteachers.data.AssemblyInfo.cs
+E:\GitCode\iteachers\iteachers\iteachers.data\obj\Debug\netcoreapp2.0\iteachers.data.dll
+E:\GitCode\iteachers\iteachers\iteachers.data\obj\Debug\netcoreapp2.0\iteachers.data.pdb

@@ -673,11 +673,11 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "E:\\NetCore\\iteachers\\iteachers.data\\iteachers.data.csproj",
+      "projectUniqueName": "E:\\GitCode\\iteachers\\iteachers\\iteachers.data\\iteachers.data.csproj",
       "projectName": "iteachers.data",
-      "projectPath": "E:\\NetCore\\iteachers\\iteachers.data\\iteachers.data.csproj",
+      "projectPath": "E:\\GitCode\\iteachers\\iteachers\\iteachers.data\\iteachers.data.csproj",
       "packagesPath": "C:\\Users\\liuzhiwei\\.nuget\\packages\\",
-      "outputPath": "E:\\NetCore\\iteachers\\iteachers.data\\obj\\",
+      "outputPath": "E:\\GitCode\\iteachers\\iteachers\\iteachers.data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
